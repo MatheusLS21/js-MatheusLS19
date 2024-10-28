@@ -23,3 +23,10 @@ display: flex;
 .chamada-texto{
 margin-right: 5%;
 }
+
+h1{
+    font-size: 40px;
+}
+p[
+fon-size: 20px;
+]
