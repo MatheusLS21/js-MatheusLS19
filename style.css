@@ -3,6 +3,7 @@ body {
     background: black;
     margim: 0px;
      font-family: "Rubik Wet Paint", system-ui;
+    margin-bottom: 100px;#
 }
 
 header {
@@ -40,6 +41,7 @@ display: flex;
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos img {
@@ -53,5 +55,7 @@ opacity: 0,5;
 }
 
 .categoria h2 {
-    
+    color: rgb(42, 122, 228);
+
 }
+
